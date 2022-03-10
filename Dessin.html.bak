@@ -1,0 +1,10 @@
+// Poncin & Frey		2AG2
+
+<html>
+<title>Dessin</title>
+<applet
+	code = Dessin.class
+	width = 300
+	height = 400>
+</applet>
+</html>
